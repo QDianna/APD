@@ -1,8 +1,4 @@
-# tema2
-
-Tema 2 APD
-Ana Elena-Diana, 331CB
-
+# Tema 2 - Task Planner with Java Threads
 
 In aceasta tema am implementat un sistem de planificare a task-urilor,
 folosind Java Threads. Sistemul are 2 componente principale - dispatcher si noduri
