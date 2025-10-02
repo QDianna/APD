@@ -1,7 +1,4 @@
-# tema1
-
-Tema 1 APD
-Ana Elena-Diana, 331CB
+# Tema 1 - Marching Squares
 
 In aceasta tema am realizat implementarea in paralel a algoritmului Marching Squares,
 care presupune o metoda de a delimita contururile dintr-o imagine. Am folosit
